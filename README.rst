@@ -7,6 +7,7 @@ OpenStack Neutron
 
 .. Change things from this point on
 
+
 Neutron is an OpenStack project to provide "network connectivity as a service"
 between interface devices (e.g., vNICs) managed by other OpenStack services
 (e.g., Nova).
